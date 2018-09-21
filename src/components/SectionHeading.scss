@@ -1,0 +1,37 @@
+.section-heading-container {
+  padding: 60px 0 70px;
+  h2 {
+    color: $black;
+    letter-spacing: -1px;
+    text-align: center;
+    margin: 0;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-bottom: 0.5rem;
+    font-size: 3rem;
+    span {
+      position: relative;
+      display: inline-block;
+      padding-bottom: 10px;
+      &::before,
+      &::after {
+        @include pseudo;
+        width: calc(50% - 22px);
+        bottom: -0.05em;
+        border-bottom: 2px solid $section-header-lines-color;
+      }
+      &::before {
+        left: 0;
+      }
+      &::after {
+        right: 0;
+      }
+    }
+  }
+}
+
+/*
+content: "";
+display: block;
+position: absolute;
+ */
