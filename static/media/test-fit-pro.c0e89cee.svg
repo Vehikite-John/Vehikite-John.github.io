@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3099 2215">
+  <defs>
+    <style>
+      svg {
+        background-image: url('./test-fit-pro.jpg');
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+      }
+    </style>
+    <!-- <script type="text/javascript">
+      function openImage(rectName) {
+        var modal = document.getElementById('myModal');
+        var modalImg = document.getElementById("img01");
+        modal.style.display = "block";
+        modalImg.src = `src/assets/images/test-fits/${rectName}.jpg`;
+      }
+
+      // Get the <span> element that closes the modal
+      var span = document.getElementsByClassName("close")[0];
+
+      // When the user clicks on <span> (x), close the modal
+      span.onclick = function() {
+        modal.style.display = "none";
+      }
+    </script> -->
+  </defs>
+  <title>Professional Office Test Fit</title><image width="3099" height="2215" xlink:href="test-fit-pro.jpg"/><rect onclick="alert('click!')" id="office" class="cls-1" x="41.6" y="34.7" width="562.4" height="423.51"/><rect onclick="openImage('collab-area')" id="collab-area" class="cls-1" x="635.3" y="34.7" width="562.4" height="423.51"/><rect onclick="openImage('conference')" id="conference" class="cls-1" x="1268.3" y="34.7" width="562.4" height="423.51"/><rect onclick="openImage('lobby')" id="lobby" class="cls-1" x="1892" y="34.7" width="562.4" height="423.51"/><rect onclick="openImage('glass-entry')" id="glass-entry" class="cls-1" x="2512.2" y="34.7" width="562.4" height="423.51"/><rect id="living-wall" class="cls-1" x="2552.6" y="544" width="533.5" height="495.08"/><rect onclick="openImage('conference2')" id="conference2" class="cls-1" x="2552.6" y="1093.9" width="533.5" height="470.6"/><rect onclick="openImage('office2')" id="office2" class="cls-1" x="2541.1" y="1732.6" width="533.5" height="449.77"/><rect onclick="openImage('break-room')" id="break-room" class="cls-1" x="1978.7" y="1732.6" width="533.5" height="449.77"/><rect onclick="openImage('balcony')" id="balcony" class="cls-1" x="618.3" y="1724.6" width="533.5" height="449.77"/><rect onclick="openImage('conference3')" id="conference3" class="cls-1" x="41.6" y="1724.6" width="533.5" height="449.77"/><rect onclick="openImage('office')" id="office-2" data-name="office" class="cls-1" x="101.8" y="571.6" width="583.2" height="157.37"/><rect onclick="openImage('coffee-bar')" id="coffee-bar" class="cls-1" x="885.1" y="650.3" width="234.4" height="242.71"/><polygon onclick="openImage('meeting-area')" id="meeting-area" class="cls-1" points="1162.1 896.9 981.2 896.9 981.2 988.5 1007.4 988.5 1006.2 1202.7 1162.1 1202.7 1162.1 896.9"/><polygon onclick="openImage('open-seating2')" id="open-seating2" class="cls-1" points="2173.1 650.3 2400.7 656.3 2400.7 865.7 2455.7 865.7 2297.2 947.8 2192.5 901.4 2173.1 901.4 2173.1 650.3"/><rect onclick="openImage('glass-entry')" id="glass-entry-2" data-name="glass-entry" class="cls-1" x="2411.5" y="571.6" width="30.8" height="30.61"/><rect onclick="openImage('living-wall')" id="living-wall-2" data-name="living-wall" class="cls-1" x="2105.6" y="579.5" width="56.5" height="313.51"/><polygon onclick="openImage('conference2')" id="conference2-2" data-name="conference2" class="cls-1" points="2292.4 1148 2493.3 1148 2493.3 877.2 2449.1 877.2 2292.4 958.4 2292.4 1148"/><rect onclick="openImage('office2')" id="office2-2" data-name="office2" class="cls-1" x="2292.4" y="1152.6" width="155.9" height="154.98"/><rect onclick="openImage('break-room')" id="break-room-2" data-name="break-room" class="cls-1" x="1388.5" y="884.6" width="254.1" height="250.38"/><polygon onclick="openImage('balcony')" id="balcony-2" data-name="balcony" class="cls-1" points="185.5 1514.5 349.5 1512.5 349.5 1485.5 363.7 1485.5 363.7 1346.5 185.5 1346.5 185.5 1514.5"/><polygon onclick="openImage('conference3')" id="conference3-2" data-name="conference3" class="cls-2" points="105.4 1343 362 1342.9 362 1211.7 105.4 1211.7 105.4 1343"/></svg>
